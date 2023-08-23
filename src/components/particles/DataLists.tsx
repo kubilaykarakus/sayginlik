@@ -48,32 +48,31 @@ export const NavButtons = [
 
 
 export const HeroTexts = {
-    firstText: "BEST DESITNATIONS AROUND THE WORLD",
-    secondText: "Travel, enjoy and live a new and full life.",
-    thirdText: "Built Wicket longer admire do barton vantity itself do in it. Preferred to sportsmen it engrossed listening. Park gate sell they west hard for the.",
-    firstButton: "Find out more",
-    secondButton: 'Play Demo'
+    firstText: "DİJİTALLEŞTİRİLMİŞ VE OTOMATİZE EDİLMİŞ İŞ ÇÖZÜMLERİ ",
+    secondText: "Şirketinize Yönelik Yüksek Performanslı İş Modeliniz ",
+    thirdText: " Alanında uzman yazılımcı kadromuzla en yüksek hizmet kalitesini sunuyoruz ",
+    firstButton: "Hemen Başlayalım",
 }
 
 
 export const ServiceTexts = {
-    firstText: "CATEGORY",
-    secondText: "We Offer Best Services",
+    firstText: "KATEGORİLER",
+    secondText: "En İyi Çözümler",
     cards: [
         {
-            firstText: "Calculated Weather",
+            firstText: "Şirket Yönetim Sistemi",
             secondText: "Built Wicket longer admire do barton vantity itself do in it."
         },
         {
-            firstText: "Best Flight",
+            firstText: "Stok Otomasyon Sistemi",
             secondText: "engrossed listening. Park gate sell they west hard for the."
         },
         {
-            firstText: "Local Events",
+            firstText: "Bakiye Sipariş Modülü",
             secondText: "barton vantity itself do in it.Preferred to men it engrossed listening."
         },
         {
-            firstText: "Customizition",
+            firstText: "Paket Transfer Sistemi",
             secondText: "We deliver outsourced aviation services for military customers."
         }
     ]
@@ -172,9 +171,9 @@ export const TestimonialTexts = {
 }
 
 export const NewsletterTexts = {
-    firstText: "Subscribe to get information, latest news and other interesting offers about Jadoo.",
-    placeholderText: "Your email",
-    buttonText: "Subscribe"
+    firstText: "Son gelişmelerimiz ve kampanyalarımızdan haberdar olmak için bültenimize üye olabilirsiniz.",
+    placeholderText: "E-mail",
+    buttonText: "Üye Ol"
 }
 
 export const FooterTexts = {

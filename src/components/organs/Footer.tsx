@@ -5,7 +5,6 @@ import { FooterTexts } from "../particles/DataLists"
 import { List } from "../atoms/List"
 import { Link } from "react-router-dom"
 import { FacebookLogo, InstagramLogo, TwitterLogo } from "@phosphor-icons/react"
-import app from "../../assets/appdownload.png"
 
 
 const Footer = () => {
@@ -82,11 +81,8 @@ const Footer = () => {
                             </Link>
                         </List>
                     </ul>
-
                     <Text as="p" className="text-base font-light text-color4">
-                        Discover Our App
-                    </Text>
-                    <Image image={app} className="w-28" alt="App Download" as="a" href="/" />
+                    </Text>            
                 </div>
             </section>
             <Text className="text-center bg-color4 text-white text-xs py-6 font-light">

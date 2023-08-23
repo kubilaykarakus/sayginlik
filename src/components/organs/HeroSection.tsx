@@ -4,7 +4,7 @@ import heroImage from "../../assets/hero-img.png"
 import { Text } from "../atoms/Text"
 import { HeroTexts } from "../particles/DataLists"
 import { Button } from "../atoms/Button"
-import { Play } from "@phosphor-icons/react"
+import { CheckFat } from "@phosphor-icons/react"
 import { Fade, Slide } from "react-awesome-reveal"
 
 
@@ -31,12 +31,10 @@ const HeroSection = () => {
                             <Text as="span" className="relative flex h-14 w-14">
                                 <Text as="span" className="animate-ping absolute inline-flex h-full w-full rounded-full bg-color1 opacity-75"></Text>
                                 <Text as="span" className="relative flex justify-center items-center text-white rounded-full h-14 w-14 bg-color1">
-                                    <Play size={20} color="currentColor" weight="fill" />
+                                    <CheckFat size={20} color="currentColor" weight="fill" />
                                 </Text>
                             </Text>
-                            <Button type="button" className="outline-none border-none">
-                                {HeroTexts.secondButton}
-                            </Button>
+                          
                         </div>
 
                     </div>
