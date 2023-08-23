@@ -1,21 +1,37 @@
 export const NavLinks = [
     {
-        name: "Destination",
-        url: "/"
+        name: "Anasayfa",
+        url: "/anasayfa"
     },
     {
-        name: "Hotels",
-        url: "/"
+        name: "Hakkımızda",
+        url: "/hakkimizda"
     },
     {
-        name: "Flights",
-        url: "/"
+        name: "Hizmetler ve Ürünler",
+        url: "/hizmetlerveurunler"
     },
     {
-        name: "Bookings",
-        url: "/"
+        name: "Blog",
+        url: "/blog"
+    },
+    {
+        name: "İletişim",
+        url: "/iletisim"
+    },
+    {
+        name: "Referanslar",
+        url: "/referanslar"
+    },
+    {
+        name: "SSS",
+        url: "/sss"
+    },
+    {
+        name: "Müşteri Destek",
+        url: "/musteridestek"
     }
-
+    
 ];
 
 export const NavButtons = [
